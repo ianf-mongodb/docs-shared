@@ -16,7 +16,6 @@ Platform Support Matrix
      - 4.2      
      - 4.0      
 
-
    * - Amazon Linux 2
      - x86_64
      - Enterprise
