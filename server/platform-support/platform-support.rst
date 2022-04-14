@@ -1,3 +1,6 @@
+Platform Support Matrix
+~~~~~~~~~~~~~~~~~~~~~~~
+
 .. list-table::
    :header-rows: 1
    :stub-columns: 1
@@ -50,6 +53,24 @@
      - |checkmark|
      - |checkmark|
 
+   * - Debian 11
+     - x86_64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
+
+   * - Debian 11
+     - x86_64
+     - Community
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
+
    * - Debian 10
      - x86_64
      - Enterprise
@@ -373,6 +394,24 @@
      -
      - |checkmark|
      - |checkmark|
+
+   * - macOS 11
+     - x86_64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
+
+   * - macOS 11
+     - arm64
+     - Community
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
 
    * - Amazon Linux 2
      - arm64
