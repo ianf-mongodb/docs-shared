@@ -340,6 +340,24 @@ Platform Support Matrix
      - |checkmark|
      - |checkmark|
 
+   * - macOS 11
+     - x86_64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
+
+   * - macOS 11
+     - x86_64
+     - Community
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
+
    * - macOS 10.14+
      - x86_64
      - Enterprise
@@ -416,7 +434,7 @@ Platform Support Matrix
      - arm64
      - Enterprise
      - |checkmark|
-     - 
+     - |checkmark|
      - 4.4.4+
      - 4.2.13+
      -
@@ -524,7 +542,7 @@ Platform Support Matrix
      - ppc64le
      - Enterprise
      - |checkmark|
-     - 5.0.1+
+     - 
      - |checkmark| 
      - |checkmark| 
      - 4.0.0 - 4.0.27
@@ -555,6 +573,24 @@ Platform Support Matrix
      - 
      - 
      -  
+
+   * - RHEL/CentOS 8
+     - s390x
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
+
+   * - RHEL/CentOS 8
+     - s390x
+     - Community
+     - 
+     - 
+     - 
+     - 
+     - 
 
    * - RHEL/CentOS 7
      - s390x
