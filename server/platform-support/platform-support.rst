@@ -395,7 +395,7 @@ Platform Support Matrix
      - |checkmark|
 
    * - macOS 11
-     - x86_64
+     - arm64
      - Enterprise
      - |checkmark|
      - 
