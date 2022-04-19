@@ -31,7 +31,7 @@
      - |checkmark|
      - |checkmark|
 
-   * - Amazon Linux 2013.03+ 
+   * - Amazon Linux V1
      - x86_64
      - Enterprise
      -
@@ -40,7 +40,7 @@
      - |checkmark|
      - |checkmark|
 
-   * - Amazon Linux 2013.03+ 
+   * - Amazon Linux V1
      - x86_64
      - Community
      -
