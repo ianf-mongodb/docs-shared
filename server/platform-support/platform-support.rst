@@ -35,8 +35,8 @@
      - x86_64
      - Enterprise
      -
-     -
-     -
+     - |checkmark|
+     - |checkmark|
      - |checkmark|
      - |checkmark|
 
@@ -44,8 +44,8 @@
      - x86_64
      - Community
      -
-     -
-     -
+     - |checkmark|
+     - |checkmark|
      - |checkmark|
      - |checkmark|
 
