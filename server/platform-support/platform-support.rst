@@ -19,6 +19,24 @@
      - 4.2      
      - 4.0      
 
+   * - Amazon Linux 2022
+     - x86_64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     - 
+
+   * - Amazon Linux 2022
+     - x86_64
+     - Community
+     - 
+     - 
+     - 
+     - 
+     - 
+
    * - Amazon Linux V2
      - x86_64
      - Enterprise
@@ -198,6 +216,24 @@
      - |checkmark|
      - |checkmark|
      - |checkmark|
+
+   * - Ubuntu 22.04
+     - x86_64
+     - Enterprise
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     -
+     -
+
+   * - Ubuntu 22.04
+     - x86_64
+     - Community
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     -
+     -
 
    * - Ubuntu 20.04
      - x86_64
@@ -414,6 +450,24 @@
      - 
      - 
      - 
+
+   * - Amazon Linux 2022
+     - arm64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
+
+   * - Amazon Linux 2022
+     - arm64
+     - Community
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
 
    * - Amazon Linux 2
      - arm64
