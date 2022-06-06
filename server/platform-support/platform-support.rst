@@ -127,6 +127,24 @@
      - |checkmark|
      - |checkmark|
 
+   * - RHEL/CentOS/Oracle Linux/Rocky/Alma 9.0+
+     - x86_64
+     - Enterprise
+     - 6.0.X
+     - 
+     - 
+     - 
+     - 
+
+   * - RHEL/CentOS/Oracle Linux/Rocky/Alma 9.0+
+     - x86_64
+     - Community
+     - 6.0.X
+     - 
+     - 
+     - 
+     - 
+
    * - RHEL/CentOS/Oracle Linux/Rocky/Alma 8.0+
      - x86_64
      - Enterprise
@@ -220,18 +238,18 @@
    * - Ubuntu 22.04
      - x86_64
      - Enterprise
-     - |checkmark|
-     - |checkmark|
-     - |checkmark|
+     - 6.0.X
+     - 
+     - 
      -
      -
 
    * - Ubuntu 22.04
      - x86_64
      - Community
-     - |checkmark|
-     - |checkmark|
-     - |checkmark|
+     - 
+     - 
+     - 
      -
      -
 
@@ -454,7 +472,7 @@
    * - Amazon Linux 2022
      - arm64
      - Enterprise
-     - |checkmark|
+     - 6.0.X
      - 
      - 
      - 
@@ -463,7 +481,7 @@
    * - Amazon Linux 2022
      - arm64
      - Community
-     - |checkmark|
+     - 6.0.X
      - 
      - 
      - 
@@ -487,6 +505,24 @@
      - 4.2.13+
      -
 
+   * - RHEL/CentOS/Rocky/Alma 9
+     - arm64
+     - Enterprise
+     - 6.0.X
+     - 
+     - 
+     -
+     -
+
+   * - RHEL/CentOS/Rocky/Alma 9
+     - arm64
+     - Community
+     - 6.0.X
+     - 
+     - 
+     -
+     -
+
    * - RHEL/CentOS/Rocky/Alma 8
      - arm64
      - Enterprise
@@ -502,6 +538,24 @@
      - |checkmark|
      - |checkmark|
      - 4.4.4+
+     -
+     -
+
+   * - Ubuntu 22.04
+     - arm64
+     - Enterprise
+     - 6.0.X
+     - 
+     - 
+     -
+     -
+
+   * - Ubuntu 22.04
+     - arm64
+     - Community
+     - 6.0.X
+     - 
+     - 
      -
      -
 
