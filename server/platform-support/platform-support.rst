@@ -634,8 +634,8 @@
    * - RHEL/CentOS 7
      - ppc64le
      - Enterprise
-     - |checkmark|
-     - 
+     - 6.0.X
+     - 5.0.X
      - |checkmark| 
      - |checkmark| 
      - 4.0.0 - 4.0.27
@@ -643,7 +643,7 @@
    * - RHEL/CentOS 7
      - ppc64le
      - Community
-     -
+     - 
      - 
      - 
      - 
