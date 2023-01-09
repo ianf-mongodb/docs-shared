@@ -433,6 +433,24 @@
      - 
      - 
 
+   * - Amazon Linux 2022
+     - arm64
+     - Enterprise
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
+
+   * - Amazon Linux 2022
+     - arm64
+     - Community
+     - |checkmark|
+     - 
+     - 
+     - 
+     -
+
    * - Amazon Linux 2
      - arm64
      - Enterprise
